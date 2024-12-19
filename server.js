@@ -191,7 +191,7 @@ app.delete('/customers/:id', async (req, res) => {
 });
 
 
-// CRUD operations for Customers
+// CRUD operations for Sales
 
 // Create
 app.post('/sales', async (req, res) => {
